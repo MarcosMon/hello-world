@@ -1,4 +1,10 @@
-# hello-world
-Let's see
-Hi every1
-I like to travel around the world, because is the best sensitive someone can feel, none should work everyday more than 8hours, because it wastes our life
+## Example de un títol
+
+### Example d'un subtítol
+
+Example de un text pla: 
+
+- Example de una llista amb items
+- Un altre ítem
+  - Un subítem
+- Ítem amb enllaç [enllaç](https://github.com/MarcosMon/hello-world/)
